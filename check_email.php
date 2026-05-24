@@ -27,3 +27,4 @@ foreach ($dummy_database as $existing_email) {
 // Return the result as JSON
 echo json_encode($response);
 ?>
+ 
